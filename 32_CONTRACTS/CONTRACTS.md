@@ -1,0 +1,25 @@
+# Contracts — CCXT
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** CCXT | Category: CRYPTOCURRENCY
+**Upstream:** https://github.com/ccxt/ccxt (MIT)
+
+## Overview
+
+This document covers contracts for the Anticloud integration of CCXT.
+
+Crypto exchange trading library
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into CCXT to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
